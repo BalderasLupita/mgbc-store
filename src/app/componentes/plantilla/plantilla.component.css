@@ -1,0 +1,13 @@
+div.cart {
+    float:right;
+    margin-right: 5px;
+  }
+  .cart img {
+    height: 30px;
+    width: 30px;
+  }
+  
+  .cart span {
+    font-size: 0.5rem;
+  }
+  

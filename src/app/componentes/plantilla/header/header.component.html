@@ -1,0 +1,10 @@
+<p-sidebar [(visible)]="sidebarVisible" position="top">
+    <span>Tienda Onlyne</span>
+    <div class="cart" (click)="showCart">
+    <img src="/assets/img/cart.png">
+    <span class="cart">Mi Carrito</span>
+    </div>
+    </p-sidebar>
+    <p-button type="button" class="mr-2" (click)="sidebarVisible = true" icon="pi pi-bars">
+    </p-button>
+    

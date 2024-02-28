@@ -1,0 +1,9 @@
+{
+    "productos": [
+      {"id":"1", "nombre":"Converse", "descripcion":"Tenis Converse Chuck Taylor All Star Classic Unisex", "precio":400,"talla":24.0,"color":"negro","estilo":"urbano", "imagen":"https://pngimg.com/uploads/converse/converse_PNG45.png"},
+      {"id":"2", "nombre":"Pirma", "descripcion":"Tenis Hombre Pirma Casual Urbanos Caballero", "precio":420,"talla":23.5,"color":"blanco","estilo":"sneaker", "imagen":"https://resources.claroshop.com/medios-plazavip/s2/12476/1569553/5f5db33e5ec40-76378-0-1600x1600.jpg"},
+      {"id":"3", "nombre":"Nike", "descripcion":"Tenis Para Hombre Nike Court Vision Mid Next Nature", "precio":350,"talla":23.0,"color":"blanco con negro","estilo":"urbano", "imagen":"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/7ea697ac-86c7-4ae1-b609-2786657147c2/court-vision-mid-next-nature-shoes-VKCWFj.png"},
+      {"id":"4", "nombre":"Puma", "descripcion":"Tenis Puma Up Mujer", "precio":395,"talla":22.5,"color":"negro","estilo":"deportivo", "imagen":"https://th.bing.com/th/id/OIP.Xz-4BKpAa0vnOfkRFz9zmgHaHa?rs=1&pid=ImgDetMain"}
+    ]
+  }
+  

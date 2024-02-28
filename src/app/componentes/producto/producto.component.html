@@ -1,0 +1,23 @@
+<p-card header="{{producto?.nombre}}" [style]="{ margin: '2px'}">
+    <ng-template pTemplate="header">
+        <img alt="Card" width="20%" src="{{producto?.imagen}}" />
+    </ng-template>
+    <p>
+        {{producto?.descripcion}}
+    </p>
+    <p>
+        {{producto?.color}}
+    </p>
+    <p>
+        {{producto?.talla}}
+    </p>
+    <p>
+        {{producto?.estilo}}
+    </p>
+    <span>{{producto?.precio | currency}}</span>
+    <ng-template pTemplate="footer">
+        <p-button (onClick)="add()" label="Comprar" icon="pi-cart-plus"></p-button>
+    </ng-template>
+  </p-card>
+  
+  
